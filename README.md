@@ -1,6 +1,6 @@
 #  Internals of V8 Engine
 
-## Discussion recoring 
+## Discussion recording 
 
 https://youtu.be/4lYDlrjUx48
 
