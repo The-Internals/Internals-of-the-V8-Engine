@@ -64,6 +64,7 @@ Intro on how JS engine creates and maintains environment record and life-cycle o
 https://dmitripavlutin.com/variables-lifecycle-and-why-let-is-not-hoisted/
 
 - Execution Context, Stack and Records
+
 https://tylermcginnis.com/ultimate-guide-to-execution-contexts-hoisting-scopes-and-closures-in-javascript/
 http://davidshariff.com/blog/what-is-the-execution-context-in-javascript/
 https://levelup.gitconnected.com/learn-javascript-fundamentals-scope-context-execution-context-9fe8673b3164
