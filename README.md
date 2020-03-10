@@ -66,6 +66,9 @@ https://dmitripavlutin.com/variables-lifecycle-and-why-let-is-not-hoisted/
 - Execution Context, Stack and Records
 
 https://tylermcginnis.com/ultimate-guide-to-execution-contexts-hoisting-scopes-and-closures-in-javascript/
+
 http://davidshariff.com/blog/what-is-the-execution-context-in-javascript/
+
 https://levelup.gitconnected.com/learn-javascript-fundamentals-scope-context-execution-context-9fe8673b3164
+
 https://blog.bitsrc.io/understanding-execution-context-and-execution-stack-in-javascript-1c9ea8642dd0
